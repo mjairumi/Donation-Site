@@ -1,0 +1,20 @@
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    margin: auto 10px;
+}
+.nav-items {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.nav-items div {
+    margin: 30px;
+}
+.nav-logo{
+    display: inline;
+}
+.nav-logo img {
+    width: 100px;
+}
